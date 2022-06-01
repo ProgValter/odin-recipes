@@ -1,2 +1,3 @@
 # odin-recipes
-My first project on The Odin Project.
+This is my first project in The Odin Project. It's about an basics recipes Website.
+In this project HTML, Git and CSS are used in a basic level.
